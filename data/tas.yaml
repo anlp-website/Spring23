@@ -152,17 +152,17 @@ people:
   #   name: "Julia Grigni"
   #   email: "jgrigni3@gatech.edu"
   #   picture: "/profiles/jg.png"
-  - 39:
-    name: "Faizan Hasan"
-    email: "fhasan8@gatech.edu"
-    picture: "/profiles/fh.png"
+  #- 39:
+  #  name: "Faizan Hasan"
+  #  email: "fhasan8@gatech.edu"
+  #  picture: "/profiles/fh.png"
   # - 39:
     # name: "Ashwin Pathak"
     # email: "apathak60@gatech.edu"
-  - 40:
-    name: "Mehul Soni"
-    email: "mehul.soni918@gatech.edu"
-    picture: "/profiles/ms.png"
+  #- 40:
+  #  name: "Mehul Soni"
+  #  email: "mehul.soni918@gatech.edu"
+  #  picture: "/profiles/ms.png"
   - 41:
     name: "Daanish M Mohammed"
     email: "dmohammed7@gatech.edu"
