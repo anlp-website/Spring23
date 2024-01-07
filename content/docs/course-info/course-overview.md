@@ -8,16 +8,16 @@ bookToc: false
 # Course Goals
 
 
-Analyze NLP techniques and apply them to text data. The course is divided into three main categories: 
+Analyze NLP techniques and apply them to text data. The course is divided into three main categories: 
 
-1. **Preprocessing:** Demonstrate how to clean and integrate text data
+1. **Preprocessing:** Demonstrate how to clean and integrate text data
   
-2. **Processing:** Apply NLP algorithms on your pre-processed data to perform different tasks
+2. **Processing:** Apply NLP algorithms on your pre-processed data to perform different tasks
 
-3. **Post-processing:** Evaluate your developed NLP models. 
+3. **Post-processing:** Evaluate your developed NLP models. 
 
 Solve problems with real datasets 
-Apply practical know-how (useful for jobs, research) through significant hands-on programming assignments 
+Apply practical know-how (useful for jobs, research) through significant hands-on programming assignments 
 
 # Course Pre- and/or Co-Requisites
 
