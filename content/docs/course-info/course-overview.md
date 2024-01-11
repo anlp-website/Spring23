@@ -8,7 +8,7 @@ bookToc: false
 # Course Goals
 
 
-Analyze NLP techniques and apply them to text data. The course is divided into three main categories: 
+Analyze NLP techniques and apply them to text data. The course is divided into three main categories: s
 
 1. **Preprocessing:** Demonstrate how to clean and integrate text data
   
@@ -30,4 +30,4 @@ You are expected to have some knowledge in Machine Learning, Linear Algebra, Opt
 
 # Class Text
 * Required Readings: No required readings
-* Recommended Reading: Introduction to Natural Language Processing by Jacob Einstein
+* Recommended Reading: Introduction to Natural Language Processing by Jacob Eisenstein. A draft is available on [github](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf).
